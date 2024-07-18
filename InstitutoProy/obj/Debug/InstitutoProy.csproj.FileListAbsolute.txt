@@ -1,0 +1,24 @@
+E:\gonzalo\PROGRAMACION II\InstitutoProy\InstitutoProy\obj\Debug\InstitutoProy.csprojResolveAssemblyReference.cache
+E:\gonzalo\PROGRAMACION II\InstitutoProy\InstitutoProy\bin\Debug\InstitutoProy.exe.config
+E:\gonzalo\PROGRAMACION II\InstitutoProy\InstitutoProy\bin\Debug\InstitutoProy.exe
+E:\gonzalo\PROGRAMACION II\InstitutoProy\InstitutoProy\bin\Debug\InstitutoProy.pdb
+E:\gonzalo\PROGRAMACION II\InstitutoProy\InstitutoProy\obj\Debug\InstitutoProy.exe
+E:\gonzalo\PROGRAMACION II\InstitutoProy\InstitutoProy\obj\Debug\InstitutoProy.pdb
+I:\gonzalo\PROGRAMACION II\InstitutoProy\InstitutoProy\obj\Debug\InstitutoProy.csprojResolveAssemblyReference.cache
+I:\gonzalo\PROGRAMACION II\InstitutoProy\InstitutoProy\obj\Debug\InstitutoProy.exe
+I:\gonzalo\PROGRAMACION II\InstitutoProy\InstitutoProy\bin\Debug\InstitutoProy.exe.config
+I:\gonzalo\PROGRAMACION II\InstitutoProy\InstitutoProy\bin\Debug\InstitutoProy.exe
+I:\gonzalo\PROGRAMACION II\InstitutoProy\InstitutoProy\bin\Debug\InstitutoProy.pdb
+I:\gonzalo\PROGRAMACION II\InstitutoProy\InstitutoProy\obj\Debug\InstitutoProy.pdb
+I:\gonzalo\PROGRAMACION II\InstitutoProyPropiedades\InstitutoProy\obj\Debug\InstitutoProy.csprojResolveAssemblyReference.cache
+I:\gonzalo\PROGRAMACION II\InstitutoProyPropiedades\InstitutoProy\obj\Debug\InstitutoProy.exe
+I:\gonzalo\PROGRAMACION II\InstitutoProyPropiedades\InstitutoProy\bin\Debug\InstitutoProy.exe.config
+I:\gonzalo\PROGRAMACION II\InstitutoProyPropiedades\InstitutoProy\bin\Debug\InstitutoProy.exe
+I:\gonzalo\PROGRAMACION II\InstitutoProyPropiedades\InstitutoProy\bin\Debug\InstitutoProy.pdb
+I:\gonzalo\PROGRAMACION II\InstitutoProyPropiedades\InstitutoProy\obj\Debug\InstitutoProy.pdb
+C:\Users\Marcos\Desktop\InstitutoProyPropiedades\InstitutoProy\bin\Debug\InstitutoProy.exe.config
+C:\Users\Marcos\Desktop\InstitutoProyPropiedades\InstitutoProy\bin\Debug\InstitutoProy.exe
+C:\Users\Marcos\Desktop\InstitutoProyPropiedades\InstitutoProy\bin\Debug\InstitutoProy.pdb
+C:\Users\Marcos\Desktop\InstitutoProyPropiedades\InstitutoProy\obj\Debug\InstitutoProy.csprojResolveAssemblyReference.cache
+C:\Users\Marcos\Desktop\InstitutoProyPropiedades\InstitutoProy\obj\Debug\InstitutoProy.exe
+C:\Users\Marcos\Desktop\InstitutoProyPropiedades\InstitutoProy\obj\Debug\InstitutoProy.pdb
